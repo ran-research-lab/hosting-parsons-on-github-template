@@ -7,7 +7,7 @@ title: Multiple Parson's Problems on One Page
 ---
 # Parsons Practice
 
-<p> De Rafa</p>
+<p> Para De Rafa</p>
 
 ## Parsons 1 (Line Based Grader)
 Re-arrange the blocks below so they print out "Hello Test!"
