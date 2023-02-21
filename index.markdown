@@ -10,7 +10,7 @@ title: Multiple Parson's Problems on One Page
 <p> De Rafa</p>
 
 ## Parsons 1 (Line Based Grader)
-Re-arrange the blocks below so they print out "Hello World!"
+Re-arrange the blocks below so they print out "Hello Test!"
 
 <div id="p1-sortableTrash" class="sortable-code"></div>
 <div id="p1-sortable" class="sortable-code"></div>
